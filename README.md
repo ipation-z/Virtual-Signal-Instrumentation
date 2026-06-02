@@ -67,6 +67,7 @@ python upper_computer.py
   <br>
   <sup>图 1：单片机输出方波</sup>
 </p>
+
 <p align="center">
   <img src="image/image4.png" alt="单片机输出正弦波" width="70%" />
   <br>
