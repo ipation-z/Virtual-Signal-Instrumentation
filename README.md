@@ -39,7 +39,7 @@ Windows 独占避坑机制：重构通讯对象生命周期，控制影格完全
 环境需求:P ython 3.8 或更高版本
 快速安装依赖 ：
 ```
-    Bash
+Bash
 pip install PySide6 pyqtgraph numpy pyserial
 ```
 
@@ -58,7 +58,7 @@ pip install PySide6 pyqtgraph numpy pyserial
 第二步：启动与连接（上位机 / 模拟器）
 进入工程根目录，运行上制主机主程序 ：
 ```
-    Bash
+Bash
 python upper_computer.py
 ```
 若使用实体单片机：在左上角序列埠下拉菜单中选择（例如）。COM11
